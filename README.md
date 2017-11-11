@@ -1,4 +1,4 @@
-<b>awslambdaproxy</b> is an [AWS Lambda](https://aws.amazon.com/lambda/) powered HTTP/SOCKS web proxy. It provides a constantly rotating IP address for your network traffic from all regions where AWS Lambda is available. The goal is to obfuscate your traffic and make it harder to track you as a user.
+<b>awslambdaproxy</b> 是 [AWS Lambda](https://aws.amazon.com/lambda/) 支持的 HTTP/SOCKS 网页代理. 它为来自AWS Lambda可用的所有地区的网络流量提供持续旋转的IP地址。目标是混淆您的流量，使其难以跟踪您作为用户使用的地址。
 
 ![](/images/overview.gif?raw=true)
 
